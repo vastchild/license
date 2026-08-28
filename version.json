@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "version_code": 1,
+  "release_notes": "🎉 首次发布\n- 台账管理（增删改查 + Excel导入导出）\n- 智能文档整理\n- PPT/Word双向互转\n- 公文模板一键生成\n- 任务待办看板\n- 排班表自动生成",
+  "download_url": "https://github.com/vastchild/license/releases/download/v1.0.0/办公管理系统_v1.0.0.zip",
+  "force_update": false,
+  "published_at": "2026-08-28"
+}
