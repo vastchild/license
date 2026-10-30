@@ -1,8 +1,16 @@
 {
  "schema": 2,
  "channel": "github",
- "generated": "2026-10-30 09:07:28",
+ "generated": "2026-10-30 09:24:00",
  "max_online": 1,
- "cards": {},
- "sig": "4f610703bc1a204eb54cfae41adebc6f4ecf5a5ccc32e6ed3774d6d3d91ec781"
+ "cards": {
+  "0eac6da191b10ffa0555e00e57b215d5ecfe35bed50e063b02df945e3fea35fe": {
+   "d": 30,
+   "b": 0,
+   "n": "真机激活测试-30天",
+   "bt": "batch-20261030-092400",
+   "bm": ""
+  }
+ },
+ "sig": "5c2a37a2d05732c54c6e604b6ee69b1a5061f4e87bd49bb8b13ac605ebf3623d"
 }
