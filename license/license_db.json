@@ -1,8 +1,16 @@
 {
  "schema": 2,
  "channel": "github",
- "generated": "2026-10-30 09:36:07",
+ "generated": "2026-10-30 09:44:41",
  "max_online": 1,
- "cards": {},
- "sig": "4f610703bc1a204eb54cfae41adebc6f4ecf5a5ccc32e6ed3774d6d3d91ec781"
+ "cards": {
+  "5e766eda9f5a30b555e2cba51cfc753d8e8863c33276a4c013cf54f3653f2a7f": {
+   "d": 30,
+   "b": 0,
+   "n": "启动耗时测试",
+   "bt": "batch-20261030-094441",
+   "bm": ""
+  }
+ },
+ "sig": "82158e6116ea1af8ef1fbb52415adc3bc44fe6401df4f7c307d4afdd294a4b8a"
 }
