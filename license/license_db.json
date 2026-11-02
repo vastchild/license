@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "channel": "github",
- "generated": "2026-11-02 20:27:14",
+ "generated": "2026-11-02 20:46:09",
  "max_online": 1,
  "cards": {
   "c5431ac470d70b43e8ed548f1703f73388a9e97f3d3136d1ecb36188fa910c00": {
@@ -28,7 +28,7 @@
   "a9aa77ef943d5e1d59fecca751efb85540a1e47c05667ddc1e4bfe6a4f9132ef": {
    "d": 1,
    "b": 0,
-   "n": "物理机",
+   "n": "家笔记本",
    "bt": "batch-20261101-200358",
    "bm": ""
   },
@@ -49,5 +49,5 @@
    "bm": ""
   }
  },
- "sig": "9c17e03113b94b2c03b5989c42b4aec6cca514a1e6f1c121c765a41abddb4aa4"
+ "sig": "3b43ba77ceaf7af09237ddd3303a852ebdc224d235b0e78200bfa45ebba908b8"
 }
