@@ -1,6 +1,12 @@
 {
  "schema": 2,
  "max_online": 1,
- "cards": {},
- "sig": "4f610703bc1a204eb54cfae41adebc6f4ecf5a5ccc32e6ed3774d6d3d91ec781"
+ "cards": {
+  "5435f1bd169901768075f93994f4abd721a8a458fede913534dd30c130d649f1": {
+   "d": 0,
+   "b": 0,
+   "bm": ""
+  }
+ },
+ "sig": "2b42db1c821eb6fa3278a96edb77ca7daad49f8dcef843963869f11de4074959"
 }
