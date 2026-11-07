@@ -1,0 +1,17 @@
+{
+ "schema": 2,
+ "max_online": 1,
+ "cards": {
+  "5435f1bd169901768075f93994f4abd721a8a458fede913534dd30c130d649f1": {
+   "d": 0,
+   "b": 0,
+   "bm": ""
+  },
+  "4a953ba9dc99e13ff23176b8a3a075020a9764ac4d25bbaa8049092eb9e6909a": {
+   "d": 1,
+   "b": 0,
+   "bm": ""
+  }
+ },
+ "sig": "cf007f0c8a00ee3cdf8575cc16d3dbbe115113adf822b99d015ef3e1dd54b87f"
+}
