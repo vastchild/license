@@ -1,6 +1,17 @@
 {
  "schema": 2,
  "max_online": 1,
- "cards": {},
- "sig": "4f610703bc1a204eb54cfae41adebc6f4ecf5a5ccc32e6ed3774d6d3d91ec781"
+ "cards": {
+  "d3c09ac6026f3c17a2603e1693a3f12878ffd66d0f4667de8e2f421992833431": {
+   "d": 1,
+   "b": 0,
+   "bm": ""
+  },
+  "c1ace4c29e510c3e6b75a4e5812a948fd7345452249f8df96b7ba8eddffb4c1b": {
+   "d": 1,
+   "b": 0,
+   "bm": ""
+  }
+ },
+ "sig": "7bd6ed88f847c6bf75cd10176dcdcae755db6b037b490e863549884d62ae03a4"
 }
